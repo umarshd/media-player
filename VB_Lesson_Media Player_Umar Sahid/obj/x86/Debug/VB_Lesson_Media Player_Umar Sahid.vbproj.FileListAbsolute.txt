@@ -1,0 +1,14 @@
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\VB_Lesson_Media Player_Umar Sahid.vbproj.ResolveComReference.cache
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\bin\Debug\VB_Lesson_Media Player_Umar Sahid.exe
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\bin\Debug\VB_Lesson_Media Player_Umar Sahid.pdb
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\bin\Debug\VB_Lesson_Media Player_Umar Sahid.xml
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\bin\Debug\Interop.WMPLib.dll
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\VB_Lesson_Media Player_Umar Sahid.vbproj.GenerateResource.Cache
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\VB_Lesson_Media Player_Umar Sahid.exe
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\VB_Lesson_Media Player_Umar Sahid.xml
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\VB_Lesson_Media Player_Umar Sahid\VB_Lesson_Media Player_Umar Sahid\obj\x86\Debug\VB_Lesson_Media Player_Umar Sahid.pdb
